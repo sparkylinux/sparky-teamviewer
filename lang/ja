@@ -1,0 +1,15 @@
+# Japanese localization file for Sparky TeamViewer Installer
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2017/01/06
+# Translated to Japanese by BALLOON a.k.a. Fu-sen.
+
+LOCAL1="終了"
+LOCAL2="名前"
+LOCAL3="説明"
+LOCAL4="Teamviewer の Linux インストーラー"
+LOCAL5="インターネット接続に失敗しました！\n\nインターネットに接続されていないか、メインのリポジトリサーバがダウンしています。\n\n確認の上、再度行って下さい。"
+LOCAL6="Linux 用の TeamViewer をインストールします。\n\nインストールしてよろしいですか？"
+LOCAL7="インストールしませんでした！ \n\n終了します..."
+LOCAL8="アプリケーションはインストールされました！ \n\n終了します..."
+LOCAL9="何か問題があります！ \nインストールを停止しているか、インターネット接続が切断されています。\n確認の上、再度行って下さい。\n\n終了します..."

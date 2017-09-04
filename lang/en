@@ -1,0 +1,14 @@
+# English localization file for Sparky TeamViewer Installer
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2015/11/05
+
+LOCAL1="Exit"
+LOCAL2="Name"
+LOCAL3="Description"
+LOCAL4="Teamviewer for Linux Installer"
+LOCAL5="Internet connection test failed!\n\nProbably you are NOT connected to the Internet or the main repository server is down.\n\nCheck it out and try again."
+LOCAL6="This will install Teamviewer for Linux.\n\nWould you like to install now?"
+LOCAL7="No package has been installed! \n\nExiting..."
+LOCAL8="The application has been installed successfully! \n\nExiting..."
+LOCAL9="Something is wrong! \nProbably you have stopped the installation or your internet connection is broken.\nCheck it out and try again.\n\nExiting..."

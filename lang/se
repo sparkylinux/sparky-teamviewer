@@ -1,0 +1,14 @@
+# Svensk språkfil för TeamViewer-installeraren.
+# Copyright 2015 Johnny Rosenberg <johnny.a.rosenberg@gmail.com> 2015-11-14
+# Under GNU GPL v2
+# Senast uppdaterad 2015-11-15
+
+LOCAL1="Avsluta"
+LOCAL2="Namn"
+LOCAL3="Beskrivning"
+LOCAL4="TeamViewer-installerare för Linux"
+LOCAL5="Internetuppkopplingstestet misslyckades!\n\nDu är antagligen inte uppkopplad till Internet, eller så är huvudförrådets server nere.\n\nKontrollera detta och försök igen."
+LOCAL6="Detta kommer att installera Teamviewer för Linux.\n\nVill du installera nu?"
+LOCAL7="Inga paket har installerats!\n\nAvslutar..."
+LOCAL8="Installationen lyckades!\n\nAvslutar..."
+LOCAL9="Någonting är fel!\nTroligen har du avbrutit installationen, eller så saknas Internetuppkoppling.\nKontrollera och försök igen.\n\nAvslutar..."

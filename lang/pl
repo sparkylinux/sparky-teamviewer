@@ -1,0 +1,15 @@
+# Polish localization file for Sparky TeamViewer Installer
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2015/11/05
+# Translated to Polish by pavroo
+
+LOCAL1="Zakończ"
+LOCAL2="Nazwa"
+LOCAL3="Opis"
+LOCAL4="Instalator Teamviewer dla Linux"
+LOCAL5="Połączenie z internetem nieudane!\n\nPrawdopodobnie NIE jesteś połączony z internetem lub główny serwer repozytoriów jest niedostępny.\n\nSprawdź to i spróbuj ponownie."
+LOCAL6="Instalacja Teamviewer dla Linux.\n\nCzy chcesz zainstalować teraz?"
+LOCAL7="Żaden pakiet nie został zainstalowany! \n\nZakończ..."
+LOCAL8="Aplikacja została zainstalowana pomyślnie! \n\nZakończ..."
+LOCAL9="Coś poszło źle! \nPrawdopodobnie zatrzymałeś instalację lub serwer repozytoriów jest niedostępny.\nSprawdź połączenie z internetem, odśwież listę pakietów i spróbuj ponownie.\n\nZakończ..."

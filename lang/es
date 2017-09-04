@@ -1,0 +1,14 @@
+# Archivo de localización en español para Sparky TeamViewer Installer
+# Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/22
+# Bajo la licencia GNU GPL v2
+# Ultima actualización 2016/01/13
+
+LOCAL1="Salir"
+LOCAL2="Nombre"
+LOCAL3="Descripción"
+LOCAL4="Instalador de Teamviewer para Linux"
+LOCAL5="¡Falló la prueba de la conexión de Internet!\n\nProbablemente Ud NO esté conectado a Internet o el servidor principal del repositorio se haya caído.\n\nVerifique esto e inténtelo nuevamente."
+LOCAL6="Esto instalará Teamviewer para Linux.\n\n¿Quiere instalarlo ahora?"
+LOCAL7="¡No se instaló ningún paquete! \n\nSalir..."
+LOCAL8="¡La aplicación se instaló correctamente! \n\nSalir..."
+LOCAL9="¡Algo está mal! \nProbablemente Ud haya detenido la instalación o se cortó su conexión a Internet.\nVerifique esto e inténtelo nuevamente.\n\nSalir..."

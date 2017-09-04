@@ -1,0 +1,14 @@
+﻿# Fichier de localisation française pour l'installateur Sparky TeamViewer
+# Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
+# Sous licence GNU GPL v2
+# Dernière mise à jour 2016/06/05
+
+LOCAL1="Quitter"
+LOCAL2="Nom"
+LOCAL3="Description"
+LOCAL4="installateur de Teamviewer pour Linux"
+LOCAL5="Échec du test de la connexion internet!\n\nVous n'êtes probablement pas connecté à Internet ou bien le serveur du projet est hors-service.\n\nVérifiez et essayez à nouveau."
+LOCAL6="Ceci va installer Teamviewer pour Linux.\n\nVoulez-vous l'installer maintenant?"
+LOCAL7="Aucun paquet n'a été installé! \n\nSortie..."
+LOCAL8="L'application a été installée avec succès! \n\nSortie..."
+LOCAL9="Il y a un problème! \nPeut-être avez-vous stoppé l'installation ou bien votre connexion internet est interrompue.\nVérifiez et essayez à nouveau.\n\nSortie..."
