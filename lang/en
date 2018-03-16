@@ -2,7 +2,6 @@
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
 # Under the GNU GPL v2
 # Last update 2015/11/05
-
 LOCAL1="Exit"
 LOCAL2="Name"
 LOCAL3="Description"

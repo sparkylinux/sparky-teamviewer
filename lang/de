@@ -1,0 +1,13 @@
+# German localization file for Sparky TeamViewer Installer by Deflet Bertling
+# Copyright 2015 Pawel‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2018/03/16
+LOCAL1="Exit"
+LOCAL2="Name"
+LOCAL3="Beschreibung"
+LOCAL4="Teamviewer für Linux Installer"
+LOCAL5="Test der Internetverbindung fehlgeschlagen!\n\nMöglicherweise bist du NICHT mit dem Internet verbunden oder der Hauptverzeichnissserver ist nicht erreichbar.\n\nÜberprüfe das und versuche es erneut."
+LOCAL6="Das wird den Teamviewer für Linux installieren.\n\nMöchtest du jetzt installieren?"
+LOCAL7="Es wurde kein Paket installiert! \n\nBeende..."
+LOCAL8="Die Applikation wurde erfolgreich installiert! \n\nBeende..."
+LOCAL9="Etwas ist falsch! \nMöglicherweise hast du die Installation gestoppt oder deine Internetverbindung ist unterbrochen.\nÜberprüfe das und versuche es erneut\n\nBeende..."

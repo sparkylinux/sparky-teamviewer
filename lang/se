@@ -2,7 +2,6 @@
 # Copyright 2015 Johnny Rosenberg <johnny.a.rosenberg@gmail.com> 2015-11-14
 # Under GNU GPL v2
 # Senast uppdaterad 2015-11-15
-
 LOCAL1="Avsluta"
 LOCAL2="Namn"
 LOCAL3="Beskrivning"

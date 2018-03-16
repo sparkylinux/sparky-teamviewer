@@ -3,8 +3,8 @@
 # Teamviewer launcher will launch the Teamviewer application or 
 # will download and install it if not installed yet 
 # Created by Paweł "pavroo" Pijanowski 2015/08/27
-# Last update 2015/11/05
-# Copyright 2015 under the GNU GPL2 License
+# Copyright 2015-2018 under the GNU GPL2 License
+# Last update 2018/03/16
 
 if [ -f /usr/bin/teamviewer ]; then
 	/usr/bin/teamviewer
@@ -16,3 +16,5 @@ else
 
 	exit 0
 fi
+
+exit 0

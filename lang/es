@@ -2,7 +2,6 @@
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/22
 # Bajo la licencia GNU GPL v2
 # Ultima actualización 2016/01/13
-
 LOCAL1="Salir"
 LOCAL2="Nombre"
 LOCAL3="Descripción"

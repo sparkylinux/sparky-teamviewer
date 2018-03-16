@@ -2,7 +2,6 @@
 # Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
 # Sous licence GNU GPL v2
 # Dernière mise à jour 2016/06/05
-
 LOCAL1="Quitter"
 LOCAL2="Nom"
 LOCAL3="Description"

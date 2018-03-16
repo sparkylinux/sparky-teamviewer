@@ -2,8 +2,6 @@
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 12/11/2015
 # Rilasciato sotto licenza GNU GPL v2
 # Ultimo aggiornamento 20/12/2015
-
-
 LOCAL1="Esci"
 LOCAL2="Nome"
 LOCAL3="Descrizione"
