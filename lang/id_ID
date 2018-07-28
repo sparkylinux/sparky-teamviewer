@@ -1,0 +1,14 @@
+# Indonesian localization file for Sparky TeamViewer Installer
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2018/07/28 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Keluar"
+LOCAL2="Nama"
+LOCAL3="Deskripsi"
+LOCAL4="Penginstal Teamviewer untuk Linux"
+LOCAL5="Uji koneksi Internet gagal!\n\nMungkin anda tidak terkoneksi ke Internet, atau server repositori utama sedang mati.\n\nPeriksa dan coba lagi."
+LOCAL6="Ini untuk menginsal Teamviewer untuk Linux.\n\nApakah anda mau menginstal sekarang?"
+LOCAL7="Tidak ada paket yang di-instal! \n\nKeluar..."
+LOCAL8="Aplikasi ini berhasil di-instal! \n\nKeluar..."
+LOCAL9="Ada yang salah! \nMungkin anda menghentikan proses instal, atau koneksi internet terputus.\nPeriksa dan coba lagi\n\nKeluar..."
