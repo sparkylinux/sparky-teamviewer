@@ -1,0 +1,13 @@
+# Hungarian localization file for Sparky TeamViewer Installer. (Translated by Nemomen)
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# Under the GNU GPL v2
+# Last update 2015/11/05
+LOCAL1="Kilépés"
+LOCAL2="Név"
+LOCAL3="Leírás"
+LOCAL4="Teamviewer a Linux Telepítőhöz"
+LOCAL5="Az Internet kapcsolati teszt sikertelen!\n\nLehet, hogy Ön NEM kapcsolódik az Internet-hálózatra vagy a fő tárolószerver nem érhető el.\n\nEllenőrizze és próbálja újra!”
+LOCAL6="Ez telepíteni fogja a Teamviewer-t Linuxhoz.\n\nKívánja most telepíteni?"
+LOCAL7="Nincs telepítve csomag! \n\nKilépés..."
+LOCAL8="Az alkalmazás sikeresen telepítve! \n\nKilépés..."
+LOCAL9=""Valami hibás! \nTalán leállította a telepítést vagy megszakadt az Internet kapcsolata.\nEllenőrizze és próbálja újra."\n\nKilépés..."
