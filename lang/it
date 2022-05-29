@@ -2,12 +2,13 @@
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 12/11/2015
 # Rilasciato sotto licenza GNU GPL v2
 # Ultimo aggiornamento 2020/07/19 by carlo
+# Ultimo aggiornamento 2022/05/18 by Yodel Sinatra <mastodon.uno/@YodelSinatra>
 LOCAL1="Esci"
 LOCAL2="Nome"
 LOCAL3="Descrizione"
-LOCAL4="Installer di Teamviewer per Linux"
-LOCAL5="Test della connessione Internet fallito!\n\nProbabilmente NON sei connesso ad Internet od il server dei repository e' offline.\n\nControlla e prova di nuovo."
-LOCAL6="Questo installera' Teamviewer per Linux.\n\nVuoi procedere adesso?"
-LOCAL7="Nessun pacchetto e' stato installato! \n\nSto uscendo..."
-LOCAL8="L'applicazione e' stata installata correttamenmte! \n\nSto uscendo..."
-LOCAL9="Qualcosa e' andato storto! \nProbabilmente hai interrotto l'installazione o la tua connessione internet e' caduta.\nControlla e prova di nuovo.\n\nSto uscendo..."
+LOCAL4="Installatore di Teamviewer per Linux"
+LOCAL5="Test della connessione Internet fallito!\n\nProbabilmente NON sei connesso ad Internet o il server dei repository è offline.\n\nControlla e riprova."
+LOCAL6="Questo installerà Teamviewer per Linux.\n\nVuoi procedere?"
+LOCAL7="Nessun pacchetto è stato installato! \n\nPuoi uscire..."
+LOCAL8="L'applicazione è stata installata correttamente! \n\nPuoi uscire..."
+LOCAL9="Qualcosa è andato storto! \nProbabilmente hai interrotto l'installazione o la tua connessione internet è caduta.\nControlla e riprova.\n\nPuoi uscire..."
