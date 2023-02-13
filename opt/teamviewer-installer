@@ -2,8 +2,8 @@
 
 # Teamviewer On-Line Installer is a script which can download and install Teamviewer for Linux (Debian package)
 # Created by Paweł "pavroo" Pijanowski 2015/08/27
-# Copyright 2015-2022 under the GNU GPL2 License
-# Last updated 2022/08/07
+# Copyright 2015-2023 under the GNU GPL2 License
+# Last updated 2023/02/13
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-teamviewer"
@@ -37,6 +37,8 @@ elif [ "`cat /etc/default/locale | grep LANG= | grep ru`" != "" ]; then
 . $DEFLOCDIR/ru
 elif [ "`cat /etc/default/locale | grep LANG= | grep sv_SE`" != "" ]; then
 . $DEFLOCDIR/se
+elif [ "`cat /etc/default/locale | grep LANG= | grep uk`" != "" ]; then
+. $DEFLOCDIR/uk
 else
 . $DEFLOCDIR/en
 fi

@@ -1,7 +1,7 @@
 Teamviewer Installer
 Teamviewer on-line installer and launcher.
 
-Copyright (C) 2015-2022 Paweł Pijanowski and others, see copyright file.
+Copyright (C) 2015-2023 Paweł Pijanowski and others, see copyright file.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
